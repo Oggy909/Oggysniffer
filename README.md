@@ -1,4 +1,4 @@
-# Packet Sniffer Tool
+# Network Sniffer Tool
 
 ## Overview
 
